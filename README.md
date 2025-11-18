@@ -1,2 +1,6 @@
 # DSA-solutions
-Collection of my solutions to problem sets from DSA module
+
+A collection of exercises completed as part of my DSA module.  
+Includes implementations of data structures, problem-solving techniques, and performance-optimised solutions.
+
+Languages: Python.
